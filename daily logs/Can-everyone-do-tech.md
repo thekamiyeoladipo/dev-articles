@@ -1,0 +1,1 @@
+# Can everyone do tech?
