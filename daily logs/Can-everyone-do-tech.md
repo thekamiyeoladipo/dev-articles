@@ -1,4 +1,4 @@
-# Can everyone do tech?
+# Can everyone do tech? This is one of the trending topics in 2025!
 In today’s fast-evolving world, technology is more than just a tool — it’s a language, a superpower, and a passport to shaping the future. Whether you’re ordering groceries, managing finances, or streaming your favorite show, tech is the invisible engine behind it all. But as we celebrate its conveniences and marvel at its innovation, a deeper question arises: Can everyone do tech — not just use it, but build it, shape it, contribute to it?
 
 Redefining “Doing Tech”
