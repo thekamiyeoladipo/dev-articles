@@ -37,4 +37,4 @@ You're welcome to fork, share, or suggest edits via Pull Requests.
 ---
 
 🧑‍💻 *Built by Kamiye Oladipo O.*
-🕸️ kamiye.netlify.app
+🕸️ kamiyeoladipo.com
