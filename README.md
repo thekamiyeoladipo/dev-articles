@@ -13,7 +13,7 @@ This is where I document what I learn as a **front-end developer**. Whether it's
 
 ## ✍️ Why I Do This
 
-Some days I write code, other days I write **about** code.  
+Some days I write code, other days I write about code.  
 This repo helps me:
 - Stay consistent with GitHub contributions 💚
 - Track what I've learned
